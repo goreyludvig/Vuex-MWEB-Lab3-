@@ -1,0 +1,17 @@
+{
+  "name": "books_vue",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Yurii Andrashko <yurii.andrashko@uzhnu.edu.ua>",
+  "scripts": {
+    "start": "vue-cli-service serve"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.2.3",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
